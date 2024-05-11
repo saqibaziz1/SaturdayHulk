@@ -1,0 +1,14 @@
+package com.upskill.java_3;
+
+public class Array_Hashmap_Hashset_HashTable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      int age = 25;
+      int[] ageHulk = new int[]{25, 35, 38, 43, 28};
+      
+      System.outprintln("Student Age : " + ageHulk[3]);
+      System.outprintln("Total Student : " + ageHulk.length);
+	}
+
+}
